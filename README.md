@@ -29,7 +29,7 @@ Demonstrar a capacidade de planejar, organizar e executar testes manuais em um a
 
 ## 🧰 Ferramentas utilizadas
 
-- Planilhas (Excel ou Google Sheets) para os testes
+- Planilhas (Excel) para os testes
 - Miro para o mapa mental
 - Prints para evidências e bug reports
 
