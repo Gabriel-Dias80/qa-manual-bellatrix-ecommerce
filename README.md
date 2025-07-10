@@ -1,4 +1,4 @@
-# qa-manual-bellatrix-ecommerce
+# QA-Manual-Bellatrix-ecommerce
 Projeto de QA Manual com plano de teste, casos de teste e execução no e-commerce demo da Bellatrix Solutions.
 # Projeto de QA Manual – Bellatrix Demo Store 🛒
 
