@@ -13,9 +13,10 @@ Demonstrar a capacidade de planejar, organizar e executar testes manuais em um a
 
 - ✅ Criação de um **plano de teste completo**
 - 🧠 Desenvolvimento de um **mindmap** para visualização de funcionalidades e possíveis testes (feito no Miro)
+       🔗 https://miro.com/app/board/uXjVIq2ap3Y=/?share_link_id=412647403075
 - 🧾 **Elaboração de casos de teste funcionais**, com foco em cenários positivos e negativos
 - 🔍 **Execução dos testes** com coleta de evidências
-- 🐞 **Registro de bugs** encontrados e **relatório de testes final**
+- 🐞 **Registro de testes falhos** encontrados e **relatório de testes final**
 - 📄 Organização da documentação para facilitar entendimento técnico e não técnico
 
 ## 🧪 Áreas testadas
@@ -31,15 +32,13 @@ Demonstrar a capacidade de planejar, organizar e executar testes manuais em um a
 
 - Planilhas (Excel) para os testes
 - Miro para o mapa mental
-- Prints para evidências e bug reports
+- Prints para evidências
+- Word para criação da documentação (testplan and final report)
 
 ## 📂 Estrutura do repositório
 
 ```bash
 📁 /docs
 ├── plano-de-teste.pdf
-├── casos-de-teste.xlsx
-├── evidencias/
-│   ├── cadastro_usuario.png
-│   ├── bug_checkout.png
+├── casos-de-teste.pdf
 ├── relatorio-final.pdf
