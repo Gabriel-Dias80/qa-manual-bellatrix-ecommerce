@@ -42,7 +42,7 @@ Demonstrate the ability to plan, organize, and execute manual tests in a simulat
 
 ## 🧰 Tools Used
 
-- Excel (test plan and test cases)
+- Spreadsheets (Excel) for tests
 - Miro (mind mapping)
 - Screenshots (test evidence)
 - Microsoft Word (test plan and final report creation)
