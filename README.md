@@ -39,6 +39,6 @@ Demonstrar a capacidade de planejar, organizar e executar testes manuais em um a
 
 ```bash
 📁 /docs
-├── plano-de-teste.pdf
-├── casos-de-teste.pdf
-├── relatorio-final.pdf
+├── 1. plano-de-teste.pdf
+├── 2. casos-de-teste.pdf
+├── 3. relatorio-final.pdf
