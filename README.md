@@ -36,7 +36,7 @@ Demonstrar a capacidade de planejar, organizar e executar testes manuais em um a
 - Word para criação da documentação (testplan and final report)
 
 ## 📂 Estrutura do repositório
-
+🔗 https://github.com/Gabriel-Dias80/qa-manual-bellatrix-ecommerce/tree/main/docs
 ```bash
 📁 /docs
 ├── 1. plano-de-teste.pdf
